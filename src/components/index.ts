@@ -1,0 +1,1 @@
+export {default as BorderGradientComponent} from "./BorderGradientComponent";
